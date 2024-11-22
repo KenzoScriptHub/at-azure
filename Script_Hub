@@ -1,0 +1,7 @@
+Config = {
+    namescript = "Kenzo_Hub",--Tên Script
+    logoscript = "112548026510118",--ID Logo Script
+    tacgia = "Kenzo"-- Tên Tác Giả
+}
+-- Special thanks to ShowerHeadFD, Jxnt, Mizkif.
+loadstring(game:HttpGet("https://scriptblox.com/raw/ScriptBlox-Direct-Execute-Feature_645", true))()
